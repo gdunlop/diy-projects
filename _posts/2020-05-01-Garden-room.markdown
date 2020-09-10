@@ -11,7 +11,7 @@ The first project covered in this blog is this timber framed insulated garden ro
 
 This is the finished article in 2020:
 
-![Garden room in 2020]({{site.baseurl}}/images/garden-room-2020.jpg)
+![Garden room in 2020]({{site.baseurl}}/images/garden-room-2020.JPG)
 
 The footprint is around 3.7m by 4.9m (12' x 16') and maximum height is 2.4m to comply with planning rules in force at the time.
 

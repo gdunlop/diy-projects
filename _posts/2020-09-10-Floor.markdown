@@ -1,0 +1,26 @@
+---
+layout: page
+title:  "Completing the floor"
+date:   2020-09-10 12:38:00 +0100
+categories:
+---
+
+### Insulation
+With the base framework completed I added rigid insulation boards between the joists. I had spaced the joists so I could avoid cutting the insulation.
+
+Since the insulation was thinner than the joists I fixed timber battens so the top face of the boards was flush with the top of the joists.
+
+![Installing floor insulation]({{site.baseurl}}/images/base-insulation2.png)
+
+This photo shows the remainder of the battens fixed and the first sheet of OSB in place.
+
+![Installing floor insulation]({{site.baseurl}}/images/base-floor2.png)
+
+### On deck
+With all the insulation in place the next step was to finish the floor deck by fixing the remainder of the OSB sheets.
+
+![Completed floor deck]({{site.baseurl}}/images/base-complete.png)
+
+With the floor deck completed I could use this surface to construct the walls "in place".
+
+Next up - building the first stud walls incorporating doors and windows.

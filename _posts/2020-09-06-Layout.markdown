@@ -1,0 +1,30 @@
+---
+layout: page
+title:  "All about the base"
+date:   2020-09-06 09:38:00 +0100
+categories:
+---
+
+### Setting out
+First step was removal of an existing timber shed and clearing the area ready to layout a base for the new building
+
+![Insert garden room here]({{site.baseurl}}/images/base-groundwork.png)
+
+With the area cleared I built a rectangular frame of the right dimensions using 6x2 C16 treated timber. I had based my design on a single pitch roof which would be formed by four sheets of OSB with no cutting required. The base was made around a foot less deep to allow for a roof overhang.
+
+![Base layout]({{site.baseurl}}/images/base-layout.png)
+
+### Supporting act
+Two sides of the framework were supported on an existing block paved patio. To support other sections I made shallow foundations and set old patio slabs. Here is the frame roughly positioned.
+
+![Base framework]({{site.baseurl}}/images/base-frame-complete2.png)
+
+To support the top-right corner of the framework I used a timber post set in the ground and through bolted to the frame.
+
+![Timber post supporting frame]({{site.baseurl}}/images/base-post.png)
+
+With the main frame in place I fixed floor joists using mini joist hangers.
+
+![Floor joists]({{site.baseurl}}/images/base-floor-joists.png)
+
+Next up - completing the base by adding insulation and OSB sub-floor.

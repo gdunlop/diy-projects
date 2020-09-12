@@ -5,14 +5,17 @@ date:   2020-09-12 13:00:00 +0100
 categories:
 ---
 
-With the front wall fixed and vertical meant it was easy to build the side section. This included an opening for a smaller top hung window.
+With the front wall fixed and vertical it was realtively easy to build the first side wall. This included an opening for a smaller top hung window.
 
 If you look carefully you'll see the left end of the front wall has an additional vertical stud fixed in the corner so the side stud wall can be fixed securely to it. The door frame is in position but not secured at this point.
 
 ![Side wall section]({{site.baseurl}}/images/frame-side-ready2.png)
 
 The rear wall was easy as there were no openings required and relatively little cutting. I made it in two separate sections so it was easier to handle.
+
+Since the roof needs a slight pitch to shed rainwater, the height of the rear and side walls was reduced.
+
 ![Rear wall section]({{site.baseurl}}/images/frame-rear-wip.png)
 
-This is the frame nearing completion.
+This is the frame nearing completion - just the final side wall to do.
 ![Frame nearing completion]({{site.baseurl}}/images/frame-final.png)

@@ -9,7 +9,7 @@ The front wall incorporates two timber sash windows and the patio doors. Since t
 
 The stud walls were constructed using strength graded CLS ('Canadian Lumber Stock') which is light and easy to handle - finished size 39x89. I was planning to use the same insulation panels between the studs as I used for the floor. These panels were 450mm wide so where possible I spaced vertical studs to accommodate these.
 
-Each section of stud wall was secured to the floor deck with suitable screws. This photo shows the first section in place with a brace to keep it vertical. It also shows the power saw I bought from Gumtree for this project - essential when there are lots of straight and angle cuts. I made a base so I could mount the saw at a more comfortable working height with a seprate roller support for long lengths of timber.
+Each section of stud wall was secured to the floor deck with suitable screws. This photo shows the first section in place with a brace to keep it vertical. It also shows the power saw I bought from Gumtree for this project - essential when there are lots of straight and angle cuts. I made a base so I could mount the saw at a more comfortable working height with a separate roller support for long lengths of timber.
 
 ![First wall section]({{site.baseurl}}/images/frame-first-panel2.png)
 

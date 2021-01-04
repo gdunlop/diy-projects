@@ -1,0 +1,44 @@
+---
+layout: page
+title:  "Exterior walls"
+date:   2020-12-28 13:00:00 +0100
+categories:
+---
+
+I chose pressure-treated featheredge timber board for the exterior walls - relatively cheap and can be left unpainted or treated as required.
+
+### Timber battens
+Vertical battens were fitted to each stud to provide an air gap behind the boards. This allows air to circulate behind the boards and means the breathable membrane can work effectively:
+
+![Timber battens]({{site.baseurl}}/images/ext-side-window.png)
+
+### Corner posts
+Additional posts were needed at each exterior corner to provide a flush edge for the timber boards. Since these posts are visible I used smooth planed pressure-treated wood:
+
+![Corner post]({{site.baseurl}}/images/ext-corner-post.png)
+
+### Boarding school
+Featheredge is installed starting at the bottom. Spacers are needed for the first board to ensure it sits at the right angle:
+
+![Featheredge spacer]({{site.baseurl}}/images/ext-spacer.png)
+
+Lots of cutting was required for the front wall so I made very good use of my power saw:
+
+![Cutting timber boards]({{site.baseurl}}/images/ext-board-cut.png)
+
+To ensure the boards were spaced correctly and consistently I tacked them in place first. Once I was happy with the spacing I made a simple guide using timber offcuts.
+
+This photo shows the timber boarding in progress. Note how the timber linings and corner posts cover the cut ends of the timber boards:
+![Timber boards]({{site.baseurl}}/images/ext-oblique.png)
+
+Close-up showing corner post detail:
+![Corner post detail]({{site.baseurl}}/images/ext-corner-detail.png)
+
+Nearing completion - just the top board on the side wall to install:
+![Finished boarding]({{site.baseurl}}/images/ext-fascias.png)
+
+The final step to finish the exterior was fitting timber fascia boards all around:
+![Exterior completed]({{site.baseurl}}/images/complete-painting2.png)
+
+After four years, the sealant between the front fascia board and the roof sheets has proven to be a weak point, allowing water to penetrate into the roof deck. I removed the front fascia recently to allow the roof deck to dry out and design a better solution:
+![Fascia board removed]({{site.baseurl}}/images/fascia.JPG)

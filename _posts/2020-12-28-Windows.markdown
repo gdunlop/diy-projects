@@ -1,0 +1,25 @@
+---
+layout: page
+title:  "Installing windows and doors"
+date:   2020-12-28 13:00:00 +0100
+categories:
+---
+
+### Lining window and door reveals
+Timber lining was installed around all the openings for doors and windows. This provided a flush surface for the timber boards on the outside and plasterboard on the interior.
+
+![Window lining]({{site.baseurl}}/images/ext-window-reveal-detail2.png)
+
+### Installing the windows
+With timber linings installed and painted the doors and windows were simply slotted in and secured through the timber studs. Here is the first window installed:
+
+![First window]({{site.baseurl}}/images/ext-first-window.png)
+
+Another window being installed in the side wall:
+![Installing a window]({{site.baseurl}}/images/ext-window-reveal.png)
+
+This photo shows the sash windows and the patio door frame installed:
+![Windows and patio door frame]({{site.baseurl}}/images/ext-front-wrap.png)
+
+Another angle showing windows installed:
+![Ready for timber boards]({{site.baseurl}}/images/ext-front-wrap2.png)
